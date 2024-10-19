@@ -2,7 +2,8 @@
 
 # LiveScore Streaming Website
 
-This project is a **LiveScore Streaming** web application built with **ReactJS**. The website provides users with real-time sports scores and updates from various sports events.
+This project is a LiveScore Streaming web application built with ReactJS.
+The website provides users with real-time sports scores and updates from various sports events.
 
 ## Features
 
@@ -32,8 +33,8 @@ This project is a **LiveScore Streaming** web application built with **ReactJS**
 
 ## Technologies Used
 
-- **ReactJS** for frontend
-- **Live Score API** for real-time data
+- ReactJS for frontend
+- Live Score API for real-time data
 
 ---
 
